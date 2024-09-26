@@ -5,7 +5,7 @@ _____
 
 To ensure the diversity of the dataset, 102 high-resolution satellite remote sensing images with a size of 4000×4000 pixels were selected, totaling over 3500 airplane instances. The images are obtained from the SuperView-1 commercial satellite, which combines four multispectral bands (red, green, blue, and near-infrared) with 0.5 m resolution after pan-sharpening fusion.
 
-The dataset can be obtained via https://github.com/SKLSEIIT/RSAPS-ASD.
+The dataset can be obtained via https://www.alipan.com/s/3DJ4mvrMYh3 .
 
 
 ## Panoptic Segmentation Annotation
